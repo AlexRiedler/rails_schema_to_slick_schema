@@ -17,5 +17,6 @@ run before deployment to create all Scala Table objects
 Use
 ===
 
-Copy the file to your local rails directory and run
-` ruby slick_convert.rb
+Copy the `slick_convert.rb` file to your local rails directory and run
+`ruby slick_convert.rb`
+It will produce the object definitions to standard output
