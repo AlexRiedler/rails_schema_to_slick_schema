@@ -12,3 +12,10 @@ run before deployment to create all Scala Table objects
 + Allow access to rails database models in scala without much effort
 
 + Support companies moving from Rails backed to Scala backend (cause who does not like speed)
+
+
+Use
+===
+
+Copy the file to your local rails directory and run
+` ruby slick_convert.rb
